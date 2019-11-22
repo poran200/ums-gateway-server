@@ -11,7 +11,7 @@
     <groupId>com.ums.seu</groupId>
     <artifactId>getway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>getway</name>
+    <name>getaway</name>
     <description>project for Spring Boot getway sever</description>
 
     <properties>
